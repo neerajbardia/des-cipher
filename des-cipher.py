@@ -1,3 +1,4 @@
+#Data Encryption Standard algorithm
 def main():
     print()
     # The plaintext and key are taken from the user
